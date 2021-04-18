@@ -17,7 +17,12 @@ I am specialist in VUE JS, Javascript is growing much more that we could breath 
 
 ### About my professional experiences ? 👋
 
-- Watch out in my linkedin
-# [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50" />](https://www.linkedin.com/in/jhony-souza-7986b843/)
+[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50" />](https://www.linkedin.com/in/jhony-souza-7986b843/)
 
+###  CERTIFICATION IN PROGRESS 🤓
 
+- Amazon AWS Solution Architect
+
+### 🏆 LASTEST PROJECT RELEASE 🏆
+
+- [CASAFY REALTY](https://casafy.com.br/)
