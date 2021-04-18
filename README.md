@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
+I am specialist in VUE JS, Javascript is growing much more that we could breath 😄, but this language is my favourite to keep learning and innovating in some projects. So you can ask me about BLOCKCHAIN and you can see more in my BLOG [NOTICIA DE BITCOIN](https://noticiadebitcoin.blogspot.com), and I continue searching for solutions to my country, it means ( BRAZIL ) 🇧🇷
+
+
 <!--
 **jhonyjss/jhonyjss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
