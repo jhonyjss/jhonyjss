@@ -27,3 +27,8 @@ So, I forgot, I have 10 years of experience in Web Development.
 ### 🏆 LASTEST PROJECT RELEASE 🏆
 
 - [CASAFY REALTY](https://casafy.com.br/)
+
+### 🏆 CURRENT PROJECT 🏆
+
+- [MILAGRO STUDIO(https://milagro.cc/)
+->> Desktop App build with VUE + ELECTRON JS
