@@ -16,6 +16,8 @@ So, I forgot, I have 10 years of experience in Web Development.
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 
+![Jhony Status](https://github-readme-stats.vercel.app/api?username=jhonyjss&show_icons=true)
+
 ### About my professional experiences ? 👋
 
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50" />](https://www.linkedin.com/in/jhony-souza-7986b843/)
