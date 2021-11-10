@@ -22,15 +22,6 @@ So, I forgot, I have 10 years of experience in Web Development.
 
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="50" />](https://www.linkedin.com/in/jhony-souza-7986b843/)
 
-###  CERTIFICATION IN PROGRESS 🤓
 
-- Amazon AWS Solution Architect
-
-### 🏆 LASTEST PROJECT RELEASE 🏆
-
-- [CASAFY REALTY](https://casafy.com.br/)
-
-### 🏆 CURRENT PROJECT 🏆
-
-- [MILAGRO STUDIO(https://milagro.cc/)
-->> Desktop App build with VUE + ELECTRON JS
+### Porfolio ?
+Watch out my portfolio >>>>>>>>>>>>> (https://portfolio-jhony.netlify.app/)
