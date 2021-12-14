@@ -24,4 +24,5 @@ So, I forgot, I have 10 years of experience in Web Development.
 
 
 ### Porfolio ?
-Watch out my portfolio >>>>>>>>>>>>> (https://portfolio-jhony.netlify.app/)
+<p>Watch out my portfolio - https://portfolio-jhony.netlify.app/</p>
+<p>Medium - https://medium.com/@jhony.jss</p>
