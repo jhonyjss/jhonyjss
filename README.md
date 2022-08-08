@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am full stack dev looking for to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
-I am specialist in VUE JS and NUXT JS, and BACK END - NEST JS. Javascript is growing much more that we could breath 😄 but it is my essencials, but this language is my favorite to keep learning and innovating in some projects. and I continue searching for solutions to my country, it means ( BRAZIL ) 🇧🇷
-So, I forgot, I have 10 years of experience in Web Development.
+I am passionate for technology since 2012 always improving my skills on web techs. Vue JS is my major skill after React JS.
 
 
 ### What you can count on me ? 👋
