@@ -12,7 +12,7 @@ I am passionate for technology since 2012 always improving my skills on web tech
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="padding-right: 10px;" width="50"/> &nbsp;&nbsp;
 
