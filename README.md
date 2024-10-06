@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am passionate for technology since 2012 always improving my skills on web techs. Vue JS is my major skill after React JS.
-
+I have been passionate about technology since 2012, continually improving my skills in web technologies. Vue.js is my primary expertise, followed by React.js.
 
 ### What you can count on me ? 👋
 
